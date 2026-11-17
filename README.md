@@ -1,12 +1,14 @@
-<!-- Banner Superior Local (100% estable y animado) -->
-<div align="center">
-  <img src="./header.svg" width="100%" alt="Beckham Torres Header"/>
-</div>
-
-<!-- Typing SVG Animado -->
+<!-- Banner Principal Animado (100% estable) -->
 <div align="center">
   <a href="https://github.com/BeckhamTorresCaceres">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=007AFF&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=65&lines=Building+scalable+web+%26+mobile+experiences+%F0%9F%9A%80;Specification-driven+architecture+%26+clean+code+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2500&pause=1000&color=007AFF&center=true&vCenter=true&width=820&height=75&lines=HI%2C+I'M+BECKHAM+TORRES+%F0%9F%91%8B;FULL-STACK+%26+MOBILE+DEVELOPER+%F0%9F%9A%80" alt="Beckham Torres Banner" />
+  </a>
+</div>
+
+<!-- Subtítulo Animado -->
+<div align="center">
+  <a href="https://github.com/BeckhamTorresCaceres">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=60&lines=Building+scalable+web+%26+mobile+experiences+%E2%9A%A1;Specification-driven+architecture+%26+clean+code+%F0%9F%92%BB" alt="Typing Subtitle" />
   </a>
 </div>
 
@@ -127,7 +129,8 @@ I'm **Beckham Torres**, a Full-Stack and Mobile Software Developer based in **Ba
 - [ ] Deepen backend mastery with **NestJS**, microservices, and automated QA agent workflows
 - [ ] Contribute to open-source TypeScript & Python ecosystems
 
-<!-- Footer Animado -->
+<br/>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:007AFF,100:0051A8&height=110&section=footer" width="100%" alt="Footer"/>
 </div>
