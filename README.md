@@ -1,21 +1,21 @@
 <!-- Banner Superior Animado (Capsule Render) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0051A8,50:007AFF,100:38BDF8&height=210&section=header&text=BECKHAM%20TORRES&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20%26%20Mobile%20Software%20Developer&descAlignY=58&descSize=18" width="100%" alt="Beckham Torres Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0051A8,50:007AFF,100:38BDF8&height=215&section=header&text=BECKHAM%20TORRES&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20%26%20Mobile%20Software%20Developer&descAlignY=58&descSize=18" width="100%" alt="Beckham Torres Header"/>
 </div>
 
 <!-- Typing SVG Animado -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://github.com/BeckhamTorresCaceres">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=007AFF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=70&lines=Building+scalable+web+%26+mobile+experiences+%F0%9F%9A%80;Specification-driven+architecture+%26+clean+code+%E2%9A%A1" alt="Typing SVG" />
   </a>
 </div>
 
-<!-- Badges de Ubicación y Perfil -->
+<!-- Badges de Ubicación, Perfil y Vistas -->
 <div align="center">
   <img src="https://img.shields.io/badge/📍_Barranquilla,_Colombia-007AFF?style=for-the-badge&logoColor=white" alt="Location"/>
   <img src="https://img.shields.io/badge/Focus-Full--Stack_%26_Mobile-0A0F1D?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8" alt="Focus"/>
-  <a href="https://github.com/TU_USUARIO">
-    <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile%20Views&color=007AFF&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/BeckhamTorresCaceres">
+    <img src="https://komarev.com/ghpvc/?username=BeckhamTorresCaceres&label=Profile%20Views&color=007AFF&style=for-the-badge" alt="Profile Views" />
   </a>
 </div>
 
@@ -26,7 +26,7 @@
 I'm **Beckham Torres**, a Full-Stack and Mobile Software Developer based in **Barranquilla, Colombia**. I approach software engineering with a **specification-driven mindset**—designing solid database schemas, clear architectural boundaries, and modular code before writing the first line of production logic.
 
 - 🔭 **Currently building:** Full-stack platforms with **Next.js & NestJS**, and native mobile experiences with **React Native (Expo)**.
-- 🎨 **Design philosophy:** Clean, intuitive UIs inspired by modern iOS aesthetics, glassmorphism, and sharp typography.
+- 🎨 **Design philosophy:** Clean, intuitive UIs inspired by modern iOS aesthetics, subtle glassmorphism, and sharp typography.
 - ⚡ **Workflow:** Linux (Ubuntu) & PowerShell environments, Dockerized services, and automated builds.
 
 **Beyond the terminal:**
@@ -101,15 +101,21 @@ I'm **Beckham Torres**, a Full-Stack and Mobile Software Developer based in **Ba
 ## 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&title_color=007AFF&icon_color=38BDF8&bg_color=0D1117&border_color=1E293B" alt="GitHub Stats"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=6&theme=tokyonight&title_color=007AFF&bg_color=0D1117&border_color=1E293B" alt="Top Languages"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=BeckhamTorresCaceres&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&title_color=007AFF&icon_color=38BDF8&bg_color=0D1117&border_color=1E293B" alt="GitHub Stats"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeckhamTorresCaceres&layout=compact&langs_count=6&theme=tokyonight&title_color=007AFF&bg_color=0D1117&border_color=1E293B" alt="Top Languages"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=BeckhamTorresCaceres&theme=tokyonight&background=0D1117&border=1E293B&ring=007AFF&fire=38BDF8&currStreakLabel=007AFF" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 <!-- Gráfica de Contribuciones Animada -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&bg_color=0D1117&color=38BDF8&line=007AFF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BeckhamTorresCaceres&bg_color=0D1117&color=38BDF8&line=007AFF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
 </div>
 
 ---
