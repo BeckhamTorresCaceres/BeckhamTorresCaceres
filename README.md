@@ -1,7 +1,3 @@
-<!-- Banner Superior Animado -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007AFF,100:003B8E&height=210&section=header&text=BECKHAM%20TORRES&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20Mobile%20Software%20Developer&descAlignY=60&descSize=18" width="100%" alt="Beckham Torres Header"/>
-</div>
 
 <!-- Typing SVG Animado (Ajustado para evitar cortes) -->
 <div align="center">
