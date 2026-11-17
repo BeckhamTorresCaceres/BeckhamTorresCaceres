@@ -1,6 +1,13 @@
-<!-- Banner Superior Animado (Capsule Render) -->
+<!-- Banner Superior Animado -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0051A8,50:007AFF,100:38BDF8&height=215&section=header&text=BECKHAM%20TORRES&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20%26%20Mobile%20Software%20Developer&descAlignY=58&descSize=18" width="100%" alt="Beckham Torres Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007AFF,100:003B8E&height=210&section=header&text=BECKHAM%20TORRES&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20Mobile%20Software%20Developer&descAlignY=60&descSize=18" width="100%" alt="Beckham Torres Header"/>
+</div>
+
+<!-- Typing SVG Animado (Ajustado para evitar cortes) -->
+<div align="center">
+  <a href="https://github.com/BeckhamTorresCaceres">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=007AFF&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=65&lines=Building+scalable+web+%26+mobile+experiences+%F0%9F%9A%80;Specification-driven+architecture+%26+clean+code+%E2%9A%A1" alt="Typing SVG" />
+  </a>
 </div>
 
 <!-- Typing SVG Animado -->
