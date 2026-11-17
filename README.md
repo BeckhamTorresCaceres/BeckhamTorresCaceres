@@ -1,10 +1,4 @@
 
-<!-- Typing SVG Animado (Ajustado para evitar cortes) -->
-<div align="center">
-  <a href="https://github.com/BeckhamTorresCaceres">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=007AFF&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=65&lines=Building+scalable+web+%26+mobile+experiences+%F0%9F%9A%80;Specification-driven+architecture+%26+clean+code+%E2%9A%A1" alt="Typing SVG" />
-  </a>
-</div>
 
 <!-- Typing SVG Animado -->
 <div align="center">
